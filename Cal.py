@@ -3,7 +3,7 @@
 
  Addition 
  Subtraction 
- Multiplication   ]: Coded by Mandeep :[
+ Multiplication   ]: Coded by sumangal :[
  Division
 
  As A Basic Calculator.....
@@ -14,7 +14,7 @@
 
 # Code Start From Here okay 
 # You can Contact me Learn making tool okay 
-# Contact me from this Number :- +919939411504
+# Contact me from this Number :- +919564114832
 
 # ------------------------------ # 
 
@@ -23,7 +23,7 @@ import os
 os.system("clear") # This Line will clear the screen 
 
 print("\033[33m\033[1mHello User")
-print("\033[1m\033[33mThis is A Calculator and It can Perform Basic Tasks.  \033[42m ]:\033[37m Coded By \033[43m\033[31mMandeep \033[32m:[ \033[0m")
+print("\033[1m\033[33mThis is A Calculator and It can Perform Basic Tasks.  \033[42m ]:\033[37m Coded By \033[43m\033[31mSumangal \033[32m:[ \033[0m")
 print("\033[1m\033[31m\033[4m............................\033[0m")
 print()
 num1 = int(input("\033[1m\033[33m[\033[32m!\033[33m]\033[34m Enter the First Number : \033[32m"))
