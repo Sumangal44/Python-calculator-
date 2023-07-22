@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 """Hey Guys From This Python Script You can Do Following Task Like :-
 
  Addition 
@@ -6,7 +6,7 @@
  Multiplication   ]: Coded by sumangal :[
  Division
 
- As A Basic Calculator.....
+ As A Basic Calculator.......
 
  Well You Can Enhance The features of This Dtool But Give Us Credit ..
 
